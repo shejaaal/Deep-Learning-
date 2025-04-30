@@ -1,1 +1,2 @@
-# Deep-Learning-
+Lung Cancer Classification using Deep Learning (April 2025)
+This project focuses on classifying lung CT scan images into three categories: benign, malignant, and normal, using deep learning techniques. The approach involved leveraging the VGG16 model for feature extraction, followed by building a custom neural network for classification. To address class imbalance, SMOTE (Synthetic Minority Over-sampling Technique) was applied. The outcome of the project was a significant improvement in classification accuracy, allowing for better differentiation between benign, malignant, and normal cases in CT scan images.
